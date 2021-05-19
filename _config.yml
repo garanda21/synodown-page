@@ -55,6 +55,11 @@ features                                  :
     description                           : Filter your tasks according to its status
     fontawesome_icon_name                 : filter
 
+  - title                                 : Dark mode
+    description                           : A native dark mode experience use it automatically starting iOS 13.
+    fontawesome_icon_name                 : moon
+     
+
 
 
 # Theme Settings

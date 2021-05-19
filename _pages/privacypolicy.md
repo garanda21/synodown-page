@@ -5,17 +5,17 @@ include_in_header: false
 ---
 
 **Last updated**  
-December 13, 2018
+May 18, 2021
 
 # Privacy Policy
-Cloud Stream IPTV Player ("us", "we", or "our") operates the Cloud Stream IPTV Player mobile application (the "Service").
+SynoDown (Download Station DS) ("us", "we", or "our") operates the SynoDown (Download Station DS) mobile application (the "Service").
 
 **Please note:** We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 <br>
 
 ## 1.0 Information We Collect
-When you use the contact option within the application we collect different types of information for various purposes to provide and improve our Service to you.
+When you use the contact option within the application (If any) we collect different types of information for various purposes to provide and improve our Service to you.
 
 ### 1.1 Personal Data
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
@@ -23,12 +23,12 @@ While using our Service, we may ask you to provide us with certain personally id
 - Email address.
 
 ### 1.2 Usage Data 
-When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").
+Application do not collect any kind of personal information or device information.
 
 <br>
 
 ## 2.0 Use of Data
-Cloud Stream IPTV Player uses the collected data for various purposes:
+If in the future SynoDown (Download Station DS) will collect information, it will be for various purposes:
 
 - To provide and maintain the Service
 - To notify you about changes to our Service
@@ -47,10 +47,10 @@ All the information loaded into the application remains locally on your device
 
 ## 4.0 Disclosure Of Data
 ### 4.1 Legal Requirements
-Cloud Stream IPTV Player may disclose your Personal Data in the good faith belief that such action is necessary to:
+SynoDown (Download Station DS) may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 - To comply with a legal obligation
-- To protect and defend the rights or property of Cloud Stream IPTV Player
+- To protect and defend the rights or property of SynoDown (Download Station DS)
 - To prevent or investigate possible wrongdoing in connection with the Service
 - To protect the personal safety of users of the Service or the public
 - To protect against legal liability
@@ -61,9 +61,7 @@ Cloud Stream IPTV Player may disclose your Personal Data in the good faith belie
 The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to mantain all your data hosted on your device to protect your Personal Data, we cannot guarantee its absolute security.
 
 ## 6.0 Service Providers
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
-
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+No third party companies or individuals are used.
 
 ## 7.0 Links To Other Sites
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
