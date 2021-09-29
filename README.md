@@ -1,4 +1,4 @@
-# Synodown App Landing Page
+# Synology downloader App Landing Page
 
 ## Quick Start
 

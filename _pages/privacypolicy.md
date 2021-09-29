@@ -8,7 +8,7 @@ include_in_header: false
 May 18, 2021
 
 # Privacy Policy
-SynoDown (Download Station DS) ("us", "we", or "our") operates the SynoDown (Download Station DS) mobile application (the "Service").
+Synology downloader ("us", "we", or "our") operates the Synology downloader mobile application (the "Service").
 
 **Please note:** We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -28,7 +28,7 @@ Application do not collect any kind of personal information or device informatio
 <br>
 
 ## 2.0 Use of Data
-If in the future SynoDown (Download Station DS) will collect information, it will be for various purposes:
+If in the future Synology downloader will collect information, it will be for various purposes:
 
 - To provide and maintain the Service
 - To notify you about changes to our Service
@@ -47,10 +47,10 @@ All the information loaded into the application remains locally on your device
 
 ## 4.0 Disclosure Of Data
 ### 4.1 Legal Requirements
-SynoDown (Download Station DS) may disclose your Personal Data in the good faith belief that such action is necessary to:
+Synology downloader may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 - To comply with a legal obligation
-- To protect and defend the rights or property of SynoDown (Download Station DS)
+- To protect and defend the rights or property of Synology downloader
 - To prevent or investigate possible wrongdoing in connection with the Service
 - To protect the personal safety of users of the Service or the public
 - To protect against legal liability

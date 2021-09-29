@@ -8,9 +8,9 @@ include_in_header: true
 
 ### `Latest`
 # **Version 1.0**
-Synodown is an app for manage and monitoring all your tasks in your NAS Synology using Download Station.
+Synology downloader is an app for manage and monitoring all your tasks in your NAS Synology using Download Station.
 #### What's New
-With Synodown you can setup as many as you wish number of different Synology NAS servers and connect to them using your own credentials.
+With Synology downloader you can setup as many as you wish number of different Synology NAS servers and connect to them using your own credentials.
 
 Supported 2FA authentication in case your account use it (Username, password and server information are never shared, those are only stored on your device for DS loggin purposes)
 
